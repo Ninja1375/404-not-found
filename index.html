@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Not Found</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <img src="https://i.ibb.co/0rK83fn/404.jpg" alt="404 - Not Found" class="error-image">
+  <div class="search-section">
+    <p>Find code, projects, and people on GitHub:</p>
+    <form action="https://github.com/search" method="GET" onsubmit="return validateSearch()">
+      <input type="text" name="q" placeholder="Search for repositories, users, or topics" class="search-input" aria-label="Search" required>
+      <button type="submit" class="search-button">Search</button>
+    </form>
+  </div>
+  <footer class="footer">
+    <p>Contact Support – GitHub Status – <a href="https://twitter.com/githubstatus">@githubstatus</a></p>
+  </footer>
+
+  <script>
+    function validateSearch() {
+      const query = document.querySelector('.search-input').value.trim();
+      if (!query) {
+        alert('Please enter a search term!');
+        return false;
+      }
+      return true;
+    }
+  </script>
+</body>
+</html>
