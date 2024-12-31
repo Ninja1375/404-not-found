@@ -61,4 +61,4 @@ Este projeto foi criado com o propósito de:
 
 Este projeto está licenciado sob a **[MIT License.](https://github.com/Ninja1375/404-not-found/blob/main/LICENSE)**
 
-**Desenvolvido com 🧡 por Antônio Nascimento.**
+**Desenvolvido com 🧡 por [Antônio Nascimento.](https://ninja1375.github.io/Meu-Portfolio/)**
