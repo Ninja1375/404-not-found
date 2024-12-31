@@ -25,7 +25,7 @@ O projeto é composto por dois arquivos principais:
 
 ## 🖼️ Captura de Tela  
 
-![404 - Not Found](https://i.ibb.co/0rK83fn/404.jpg)  
+![404 - Not Found](404.jpeg)  
 
 ## 🚀 Como Usar  
 
