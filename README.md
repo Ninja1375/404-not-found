@@ -31,5 +31,28 @@ O projeto é composto por dois arquivos principais:
 
 1. Clone este repositório:  
    ```bash  
-   git clone https://github.com/usuario/404-not-found.git  
+   git clone https://github.com/ninja1375/404-not-found.git
+   ```
+2. Abra o arquivo `index.html` diretamente em seu navegador para visualizar a página.
 
+## 🖌️ Personalização
+
+Alterar a imagem de erro:
+Edite o atributo src da tag <img> no arquivo index.html para apontar para uma nova imagem.
+
+Modificar cores ou estilos:
+Faça ajustes no arquivo style.css para alterar o design.
+
+## 🎯 Objetivo Educacional
+
+Este projeto foi criado com o propósito de:
+
+Praticar habilidades front-end em um cenário realista.Aprender sobre validação de formulários com JavaScript.Implementar design responsivo utilizando CSS.
+
+Não possui fins comerciais ou de produção.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a MIT License.
+
+Desenvolvido com 🧡 por Antônio Nascimento.
