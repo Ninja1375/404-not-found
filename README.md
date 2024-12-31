@@ -39,22 +39,26 @@ O projeto é composto por dois arquivos principais:
 
 ## 🖌️ Personalização
 
-Alterar a imagem de erro:
-Edite o atributo src da tag <img> no arquivo index.html para apontar para uma nova imagem.
+- **Alterar a imagem de erro:**
+Edite o atributo `src` da tag `<img>` no arquivo `index.html` para apontar para uma nova imagem.
 
-Modificar cores ou estilos:
-Faça ajustes no arquivo style.css para alterar o design.
+- **Modificar cores ou estilos:**
+Faça ajustes no arquivo `style.css` para alterar o design.
 
 ## 🎯 Objetivo Educacional
 
 Este projeto foi criado com o propósito de:
 
-Praticar habilidades front-end em um cenário realista.Aprender sobre validação de formulários com JavaScript.Implementar design responsivo utilizando CSS.
+- Praticar habilidades front-end em um cenário realista.
 
-Não possui fins comerciais ou de produção.
+- Aprender sobre validação de formulários com JavaScript.
+
+- Implementar design responsivo utilizando CSS.
+
+**Não possui fins comerciais ou de produção.**
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a **[MIT License.](https://github.com/Ninja1375/404-not-found/blob/main/LICENSE)**
 
-Desenvolvido com 🧡 por Antônio Nascimento.
+**Desenvolvido com 🧡 por Antônio Nascimento.**
